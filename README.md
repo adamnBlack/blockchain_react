@@ -1,4 +1,4 @@
-# blockchain-node-react-fullstack
+# blockchain-react
 This full-stack application is about cryptocurrency. The back-end was built by Node/Express. The front-end was built by React, React-Bootstrap, and CSS3. This app allows users to conduct transactions, which is sending and receiving cryptocurrency. In addition, users can mine the new block in order to receive the reward. Feel free to clone it and play around with it.
 
 
